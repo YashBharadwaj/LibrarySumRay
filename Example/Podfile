@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LibrarySumRAY_Example' do
+  pod 'LibrarySumRAY', :path => '../'
+
+  target 'LibrarySumRAY_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
