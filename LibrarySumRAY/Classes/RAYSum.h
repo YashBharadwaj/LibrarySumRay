@@ -10,4 +10,6 @@
 
 @interface RAYSum : NSObject
 
+- (NSInteger)sumOf:(NSInteger)a and:(NSInteger)b;
+
 @end

@@ -7,6 +7,7 @@
 //
 
 #import "RAYViewController.h"
+#import <LibrarySumRAY/RAYSum.h>
 
 @interface RAYViewController ()
 

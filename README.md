@@ -22,7 +22,7 @@ pod "LibrarySumRAY"
 
 ## Author
 
-YashAtDirecti, ybharadwaj12@gmail.com
+Yash Bharadwaj, ybharadwaj12@gmail.com
 
 ## License
 

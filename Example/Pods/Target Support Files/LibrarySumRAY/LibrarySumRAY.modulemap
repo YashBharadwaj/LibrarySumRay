@@ -1,0 +1,6 @@
+framework module LibrarySumRAY {
+  umbrella header "LibrarySumRAY-umbrella.h"
+
+  export *
+  module * { export * }
+}

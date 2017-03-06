@@ -1,0 +1,16 @@
+PODS:
+  - LibrarySumRAY (0.1.1)
+
+DEPENDENCIES:
+  - LibrarySumRAY (from `../`)
+
+EXTERNAL SOURCES:
+  LibrarySumRAY:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LibrarySumRAY: 77da0d59ea7b829431b851557c5574a5ba8c70a2
+
+PODFILE CHECKSUM: bcfd3140f3c4c338712946c4f262ba22c71dce96
+
+COCOAPODS: 1.1.1

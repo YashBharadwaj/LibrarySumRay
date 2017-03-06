@@ -10,4 +10,8 @@
 
 @implementation RAYSum
 
+- (NSInteger)sumOf:(NSInteger)a and:(NSInteger)b {
+    return a+b;
+}
+
 @end

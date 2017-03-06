@@ -1,0 +1,22 @@
+{
+  "name": "LibrarySumRAY",
+  "version": "0.1.1",
+  "summary": "A short description of LibrarySumRAY.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YashAtDirecti/LibrarySumRAY",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YashAtDirecti": "ybharadwaj12@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/YashAtDirecti/LibrarySumRAY.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LibrarySumRAY/Classes/**/*"
+}
